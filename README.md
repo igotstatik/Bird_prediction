@@ -34,18 +34,12 @@ https://www.kaggle.com/datasets/umairshahpirzada/birds-20-species-image-classifi
   - `opencv-python`
   - `matplotlib`
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## Project Structure
 ```
 .
 ├── bird_classifier.ipynb     # Jupyter Notebook with full implementation
-├── requirements.txt          # Required libraries
 ├── README.md                 # Project documentation
 └── sample_images/            # Folder for testing your images
 ```
