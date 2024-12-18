@@ -75,7 +75,7 @@ print(f"Predicted species: {predicted_species}")
 
 ## Example Prediction
 Input image:
-![Example Bird](sample_images/example_bird.jpg)
+sample_images/example_bird.jpg
 
 Output:
 ```
